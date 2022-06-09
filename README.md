@@ -1,5 +1,6 @@
 # DISCORD NITRO SCRAPER
 
+Save the id of all users who have nitro on a specific server
 
 ```
 REQUIRE PYTHON 3.9
